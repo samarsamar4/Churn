@@ -6,4 +6,4 @@ RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,Num
 5,90121312,Jenny,661,France,Female,33,6,0,2,0,1,39922.7,,
 6,35619304,Henna,502,France,Female,49,7,12966.82,3,1,0,103031.57,,
 7,24857454,Ridhima,710,France,Female,29,1,0,3,0,0,83826.63,,
-8,75572918,Rahul,482,Spain,Male,42,2,10681.53,1,1,0,128643.35,,
+8,75572918,Rahul,482,Spain,Male,42,2,10681.40,1,1,0,128643.35,,
